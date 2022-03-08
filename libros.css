@@ -1,0 +1,14 @@
+lines (11 sloc) 139 Bytes
+* {
+    display:block;
+}
+
+p {
+    color: blue;
+}
+
+span {
+    color: black;
+    background-color: yellow;
+    display: inline;
+}
